@@ -2,3 +2,5 @@ LLMs are like the flight of a bumblebee because no one is completely sure how it
 
 
 Hello, this is the second exercise session :)
+Hello Worl 2 !!
+*d
